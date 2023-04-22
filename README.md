@@ -12,3 +12,7 @@
 - Création du Github
   - Création README.md
   - Ajout des membres
+ 
+### 24/04 : 
+- Brainstorming
+- Création de la map sur Tiled
