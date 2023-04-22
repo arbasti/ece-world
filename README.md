@@ -10,3 +10,5 @@
 
 ### 22/04 :
 - Création du Github
+  - Création README.md
+  - Ajout des membres
