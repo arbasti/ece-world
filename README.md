@@ -10,8 +10,8 @@
 
 ### 22/04 :
 - Création du Github
-  - Création README.md
-  - Ajout des membres
+- Création README.md
+- Ajout des membres
 - Création Menu 1/x
  
 ### 24/04 : 
