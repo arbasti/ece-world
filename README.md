@@ -13,7 +13,11 @@
 - Création README.md
 - Ajout des membres
 - Création Menu 1/x
- 
+
+### 23/04 :
+- Création Menu 2/x
+- Création du squelette du projet 1/x
+
 ### 24/04 : 
 - Brainstorming
 - Création de la map sur Tiled
