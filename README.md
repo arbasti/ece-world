@@ -20,4 +20,7 @@
 
 ### 24/04 : 
 - Brainstorming
-- Création de la map sur Tiled
+
+### 25/04 :
+- Création de la map test Tiled
+- Création du squelette du projet 2/x
