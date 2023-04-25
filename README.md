@@ -24,3 +24,5 @@
 ### 25/04 :
 - Création de la map test Tiled
 - Création du squelette du projet 2/x
+- Création du Menu 3/x
+- Déplacement du joueur 1/x
